@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
- 1.kısım:
+ 
+ //Merdiven şekil için yazılan kod
 
 int main()
 {
@@ -31,8 +32,9 @@ int main()
    return 0;
 }
 
-2.kısım:
 
+
+//sağ tarafa  doğru yapılan merdiven şekiili kod
 int main()
 {
 	    int h;
@@ -59,8 +61,8 @@ int main()
 }
 
 
-3.kısım:
 
+//baklava dilii şekli için yazılan kod
 int main()
 {
 	    int h;
